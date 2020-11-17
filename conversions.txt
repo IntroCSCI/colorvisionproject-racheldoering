@@ -1,0 +1,2 @@
+You entered: 6 6 6
+Converted tritanopia values: 6 6 7 
